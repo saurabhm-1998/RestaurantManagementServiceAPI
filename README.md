@@ -1,4 +1,4 @@
-# RestaurantmanagementServiceAPI
+# RestaurantManagementServiceAPI
 
 The Restaurant Management System is a web application that provides functionality for managing food items, user accounts, and orders in a restaurant setting. It allows users to sign up, sign in, view food items, place orders, and perform administrative tasks.
 
